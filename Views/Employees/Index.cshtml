@@ -30,6 +30,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.Department)
             </th>
+            <th>Photo</th>
             <th></th>
         </tr>
     </thead>
@@ -54,6 +55,16 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Department.DepartmentId)
             </td>
+                <td>
+                    @if (!string.IsNullOrEmpty(item.PhotoImagePath))
+                    {
+                        <img src="@item.PhotoImagePath" alt="Employee Photo" style="width:100px; height:auto;" />
+                    }
+                    else
+                    {
+                        <span>No Image</span>
+                    }
+                </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.EmployeeId">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.EmployeeId">Details</a> |

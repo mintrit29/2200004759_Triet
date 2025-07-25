@@ -1,4 +1,5 @@
-﻿@model _2200004759_Triet.Models.Employee
+﻿@* Thay đổi model ở đây *@
+@model _2200004759_Triet.Models.EmployeeCreateViewModel
 
 @{
     ViewData["Title"] = "Create";
@@ -10,39 +11,50 @@
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="Create">
+        @* Thêm enctype="multipart/form-data" để cho phép upload file *@
+        <form asp-action="Create" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
             <div class="form-group">
                 <label asp-for="EmployeeName" class="control-label"></label>
                 <input asp-for="EmployeeName" class="form-control" />
                 <span asp-validation-for="EmployeeName" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="Gender" class="control-label"></label>
-                <input asp-for="Gender" class="form-control" />
-                <span asp-validation-for="Gender" class="text-danger"></span>
+
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    @* Dùng checkbox cho Gender (bit/boolean) sẽ tốt hơn *@
+                    <input class="form-check-input" asp-for="Gender" /> @Html.DisplayNameFor(model => model.Gender)
+                </label>
             </div>
+
             <div class="form-group">
                 <label asp-for="Email" class="control-label"></label>
                 <input asp-for="Email" class="form-control" />
                 <span asp-validation-for="Email" class="text-danger"></span>
             </div>
+
             <div class="form-group">
                 <label asp-for="Phone" class="control-label"></label>
                 <input asp-for="Phone" class="form-control" />
                 <span asp-validation-for="Phone" class="text-danger"></span>
             </div>
+
             <div class="form-group">
-                <label asp-for="PhotoImagePath" class="control-label"></label>
-                <input asp-for="PhotoImagePath" class="form-control" />
-                <span asp-validation-for="PhotoImagePath" class="text-danger"></span>
+                @* Thay thế input text bằng input file *@
+                <label asp-for="PhotoImage" class="control-label"></label>
+                <input asp-for="PhotoImage" class="form-control" type="file" />
+                <span asp-validation-for="PhotoImage" class="text-danger"></span>
             </div>
+
             <div class="form-group">
                 <label asp-for="DepartmentId" class="control-label"></label>
-                <select asp-for="DepartmentId" class ="form-control" asp-items="ViewBag.DepartmentId"></select>
+                <select asp-for="DepartmentId" class="form-control" asp-items="ViewBag.DepartmentId"></select>
+                <span asp-validation-for="DepartmentId" class="text-danger"></span>
             </div>
+
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Create" class="btn btn-primary mt-3" />
             </div>
         </form>
     </div>
@@ -53,5 +65,7 @@
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }
