@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2200004759_Triet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f09cb1e79f6e9d0af609e1d435917cb28e74e484")]
 [assembly: System.Reflection.AssemblyProductAttribute("2200004759_Triet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2200004759_Triet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
