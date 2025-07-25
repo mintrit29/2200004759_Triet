@@ -7596,23 +7596,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
+    "C:\\Users\\speak\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\2200004759_Triet.csproj",
+      "projectUniqueName": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\2200004759_Triet.csproj",
       "projectName": "2200004759_Triet",
-      "projectPath": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\2200004759_Triet.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\obj\\",
+      "projectPath": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\2200004759_Triet.csproj",
+      "packagesPath": "C:\\Users\\speak\\.nuget\\packages\\",
+      "outputPath": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\speak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\",
+  "WorkspaceRootPath": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|c:\\users\\lenovo\\downloads\\hoc\\2200004759_triet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|d:\\school\\code\\mvc22bit\\2200004759_triet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|c:\\users\\lenovo\\downloads\\hoc\\2200004759_triet\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|d:\\school\\code\\mvc22bit\\2200004759_triet\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|c:\\users\\lenovo\\downloads\\hoc\\2200004759_triet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|d:\\school\\code\\mvc22bit\\2200004759_triet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|c:\\users\\lenovo\\downloads\\hoc\\2200004759_triet\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|d:\\school\\code\\mvc22bit\\2200004759_triet\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|solutionrelative:views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|c:\\users\\lenovo\\downloads\\hoc\\2200004759_triet\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|d:\\school\\code\\mvc22bit\\2200004759_triet\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|solutionrelative:views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|c:\\users\\lenovo\\downloads\\hoc\\2200004759_triet\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|d:\\school\\code\\mvc22bit\\2200004759_triet\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|c:\\users\\lenovo\\downloads\\hoc\\2200004759_triet\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|d:\\school\\code\\mvc22bit\\2200004759_triet\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|solutionrelative:views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|c:\\users\\lenovo\\downloads\\hoc\\2200004759_triet\\data\\_22bitv01employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|d:\\school\\code\\mvc22bit\\2200004759_triet\\data\\_22bitv01employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|solutionrelative:data\\_22bitv01employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|c:\\users\\lenovo\\downloads\\hoc\\2200004759_triet\\models\\employeecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|d:\\school\\code\\mvc22bit\\2200004759_triet\\models\\employeecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|solutionrelative:models\\employeecreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|c:\\users\\lenovo\\downloads\\hoc\\2200004759_triet\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|d:\\school\\code\\mvc22bit\\2200004759_triet\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8889D24C-D999-4518-9948-C360655DEC68}|2200004759_Triet.csproj|solutionrelative:views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -50,137 +50,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T13:47:26.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\Views\\Employees\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Employees\\Details.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\Views\\Employees\\Details.cshtml",
-              "RelativeToolTip": "Views\\Employees\\Details.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T13:44:30.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\Controllers\\EmployeesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\Controllers\\EmployeesController.cs",
-              "RelativeToolTip": "Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T13:28:07.269Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\Views\\Employees\\Create.cshtml",
+              "DocumentMoniker": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\Views\\Employees\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Employees\\Create.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\Views\\Employees\\Create.cshtml",
               "RelativeToolTip": "Views\\Employees\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAiwDwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T13:24:24.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T13:24:24.012Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "EmployeeCreateViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\Models\\EmployeeCreateViewModel.cs",
+              "DocumentMoniker": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\Models\\EmployeeCreateViewModel.cs",
               "RelativeDocumentMoniker": "Models\\EmployeeCreateViewModel.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\Models\\EmployeeCreateViewModel.cs",
+              "ToolTip": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\Models\\EmployeeCreateViewModel.cs",
               "RelativeToolTip": "Models\\EmployeeCreateViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T13:23:35.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T13:23:35.079Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\appsettings.Development.json",
+              "DocumentMoniker": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\appsettings.Development.json",
+              "ToolTip": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-25T13:18:03.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T13:18:03.85Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\appsettings.json",
+              "DocumentMoniker": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\appsettings.json",
+              "ToolTip": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-25T13:18:01.36Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:28:07.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employees\\Details.cshtml",
+              "ToolTip": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T13:44:30.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:47:26.589Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
               "Title": "_22bitv01EmployeeContext.cs",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\Data\\_22bitv01EmployeeContext.cs",
+              "DocumentMoniker": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\Data\\_22bitv01EmployeeContext.cs",
               "RelativeDocumentMoniker": "Data\\_22bitv01EmployeeContext.cs",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\Data\\_22bitv01EmployeeContext.cs",
+              "ToolTip": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\Data\\_22bitv01EmployeeContext.cs",
               "RelativeToolTip": "Data\\_22bitv01EmployeeContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T13:31:49.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T13:31:49.024Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\Views\\Departments\\Index.cshtml",
+              "DocumentMoniker": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\Views\\Departments\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Departments\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\Views\\Departments\\Index.cshtml",
               "RelativeToolTip": "Views\\Departments\\Index.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T13:34:45.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T13:34:45.512Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\Views\\Employees\\Index.cshtml",
+              "DocumentMoniker": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\Views\\Employees\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Employees\\Index.cshtml",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\hoc\\2200004759_Triet\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\SCHOOL\\CODE\\mvc22bit\\2200004759_Triet\\Views\\Employees\\Index.cshtml",
               "RelativeToolTip": "Views\\Employees\\Index.cshtml",
               "ViewState": "AgIAADEAAAAAAAAAAAAiwEIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-25T13:34:57.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T13:34:57.055Z"
             }
           ]
         }
